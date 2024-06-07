@@ -40,3 +40,23 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Angular specific
+.angular
+dist
+out-tsc
+
+# IDEs and editors
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Node specific
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
