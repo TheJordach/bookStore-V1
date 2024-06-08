@@ -1,0 +1,33 @@
+.title {
+  font-size: 2.5rem; /* Adjust the size as needed */
+  margin-bottom: 20px; /* Add more space below the title */
+}
+
+.subtitle {
+  font-size: 1.25rem; /* Adjust the size as needed */
+  margin-bottom: 40px; /* Add more space below the subtitle */
+  color: #666; /* Optional: Lighten the subtitle text color */
+}
+
+.label {
+  font-weight: 300; /* Lighten the weight */
+  font-size: 0.875rem; /* Make the label smaller */
+}
+
+.field.is-grouped {
+  justify-content: center;
+}
+
+.control {
+  width: 100%;
+}
+
+.control .button {
+  width: 100%;
+}
+
+.button{
+  color: black;
+  background: #FFD155;
+  font-weight: bold;
+}

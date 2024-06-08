@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import "bulma/css/bulma.css";
+/* styles.css */
+body {
+  background-color: #f6f2eb;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  height: 100vh;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+}
